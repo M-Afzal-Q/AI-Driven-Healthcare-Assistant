@@ -68,9 +68,6 @@ def main():
     
     # Example prompts
     st.write("Try asking:")
-    st.write("- What are the symptoms of the flu?")
-    st.write("- How can I book an appointment with a doctor?")
-    st.write("- What should I do if I miss a dose of my medication?")
 
     user_input = st.text_input("Enter your message here:")
     
