@@ -9,8 +9,6 @@ The AI-Driven Healthcare Assistant aims to revolutionize the healthcare industry
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 - Real-time analysis of medical data
@@ -25,27 +23,36 @@ The AI-Driven Healthcare Assistant aims to revolutionize the healthcare industry
    git clone https://github.com/M-Afzal-Q/AI-Driven-Healthcare-Assistant.git
 
 2. Navigate to the project directory:
-sh
-cd AI-Driven-Healthcare-Assistant
-Install the required dependencies:
-sh
-pip install -r requirements.txt
-Usage
-Run the Streamlit application:
-sh
-streamlit run app.py
-Follow the on-screen instructions to interact with the AI-Driven Healthcare Assistant.
-Contributing
+   ```sh
+   cd AI-Driven-Healthcare-Assistant
+   
+3. Install the required dependencies:
+   ```sh
+   pip install -r requirements.txt
+   
+## Usage
+1. Run the Streamlit application:
+   ```sh
+   streamlit run app.py
+   
+2. Follow the on-screen instructions to interact with the AI-Driven Healthcare Assistant.
+
+## Contributing
+
 We welcome contributions from the community. To contribute, please follow these steps:
 
-Fork the repository.
-Create a new branch:
-sh
-git checkout -b feature/your-feature-name
-Make your changes and commit them:
-sh
-git commit -m 'Add some feature'
-Push to the branch:
-sh
-git push origin feature/your-feature-name
-Create a new Pull Request.
+1. Fork the repository.
+
+2. Create a new branch:
+   ```sh
+   git checkout -b feature/your-feature-name
+
+3. Make your changes and commit them:
+   ```sh
+   git commit -m 'Add some feature'
+
+4. Push to the branch:
+   ```sh
+   git push origin feature/your-feature-name
+
+5. Create a new Pull Request.
