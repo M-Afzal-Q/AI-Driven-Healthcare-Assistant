@@ -1,26 +1,30 @@
-AI-Driven Healthcare Assistant
-Introduction
+# AI-Driven Healthcare Assistant
+
+## Introduction
 The AI-Driven Healthcare Assistant aims to revolutionize the healthcare industry by providing intelligent and efficient solutions to assist healthcare professionals and patients. This project leverages advanced AI technologies to offer real-time analysis, diagnosis support, and personalized healthcare recommendations.
 
-Table of Contents
-Introduction
-Features
-Installation
-Usage
-Contributing
-License
-Contact
-Features
-Real-time analysis of medical data
-AI-powered diagnosis support
-Personalized healthcare recommendations
-Easy integration with existing healthcare systems
-Secure and private data handling
-Installation
-Clone the repository:
-sh
-git clone https://github.com/M-Afzal-Q/AI-Driven-Healthcare-Assistant.git
-Navigate to the project directory:
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+- Real-time analysis of medical data
+- AI-powered diagnosis support
+- Personalized healthcare recommendations
+- Easy integration with existing healthcare systems
+- Secure and private data handling
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/M-Afzal-Q/AI-Driven-Healthcare-Assistant.git
+
+2. Navigate to the project directory:
 sh
 cd AI-Driven-Healthcare-Assistant
 Install the required dependencies:
